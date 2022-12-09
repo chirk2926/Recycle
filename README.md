@@ -6,7 +6,9 @@ This BOT is suitable for small community server management, including user punis
 Download the source, install node.js discord.js, and run it on your private server.
 Customization is also possible.
 # treatment
-After installing node.js, discord.js, and dotenv.js, run node index.js.
+Copy and paste your BOT token into the .env file in double quotes.
+After installing node.js, discord.js, and dotenv.js, run
+node index.js
 ## commands
 It appears in the slack command menu, which I will write later in README.md.
 ## japanese
@@ -16,6 +18,9 @@ It appears in the slack command menu, which I will write later in README.md.
 ソースをダウンロードし、node.js discord.jsをインストールし実行すればプライベートサーバーで実行できます。
 カスタマイズも可能
 # 使い方
-node.js,discord.js,dotenv.jsをインストールしたあと、node index.jsを実行する。
+自分のBOTトークンを.envファイルのダブルクォーテーションの中にコピーアンドペーストをしてください。
+node.js,discord.js,dotenv.jsをインストールしたあと、
+node index.js
+を実行する。
 ## コマンド
 スラックスコマンドメニューで表示されます。README.mdには後で書きます。
