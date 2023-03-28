@@ -1,5 +1,5 @@
 # RecycleBOT
-Recycle Discord BOT
+初めて本格的に作ったBOTです。最近みてとんでもないコードしかなくて面白いです。Recycle Discord BOT
 # Overview
 Recycle Discord BOT is a DiscordBOT developed with node.js discord.js as a bail.
 This BOT is suitable for small community server management, including user punishment function and server management.
